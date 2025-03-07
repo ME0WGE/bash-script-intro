@@ -7,3 +7,5 @@ touch projet/public/css/main/style.css
 touch projet/public/img/img{1..2}
 touch projet/public/index.html
 touch projet/public/js/main.js
+
+tree
